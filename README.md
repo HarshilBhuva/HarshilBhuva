@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Harshil Bhuva</h1>
 <h3 align="center">Cybersecurity Enthusiast | Aspiring Penetration Tester | Building Skills to Break & Defend</h3>
-
-- 🔭 I’m currently working on [Secure Login System](https://github.com/HarshilBhuva/secure-login-system)
-
 - 🌱 I’m currently learning **Web Penetration On Burpsuite**
-
-- 🤝 I’m looking for help with [Secure Login System](https://github.com/HarshilBhuva/secure-login-system)
 
 <p align="left">
 </p>
