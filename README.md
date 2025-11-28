@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Harshil Bhuva</h1>
 <h3 align="center">Cybersecurity Enthusiast | Aspiring Penetration Tester | Building Skills to Break & Defend</h3>
-- 🌱 I’m currently learning **Web Penetration On Burpsuite**
+- 🌱 I’m currently learning Web Penetration On Burpsuite
 
 <p align="left">
 </p>
