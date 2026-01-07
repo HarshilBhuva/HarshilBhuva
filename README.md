@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/bhuvaharshil616" target="_blank">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png" alt="Your Image Badge" />
+
   </a>
 </p>
 
