@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Aspiring Penetration Tester | Building Skills to Break & Defend</h3>
 
 <p align="center">
-🌱 Currently learning <strong>Web Penetration Testing using Burp Suite</strong>
+🌱 Currently learning <strong>Web Penetration Testing using OWASP Juice Shop </strong>
 </p>
 
 <hr/>
@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://tryhackme.com/p/bhuvaharshil616" target="_blank">
     
-<img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png?cachE=2026-01-26" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png?cachE=2026-02-01" alt="TryHackMe Badge" />
    <!-- change cache=20yy-mm each time to get it right -->
  
   </a>
