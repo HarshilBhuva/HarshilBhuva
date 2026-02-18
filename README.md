@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/bhuvaharshil616" target="_blank">
-<img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png?cachE=2026-02-15" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png?cachE=2026-02-19" alt="TryHackMe Badge" />
    <!-- change cache=20yy-mm each time to get it right -->
   </a>
 </p>
@@ -21,6 +21,9 @@
   </a>
   <a href="https://tryhackme.com/COMMANDER/badges/diamond-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137">
     <img src="https://github.com/user-attachments/assets/e3005450-2d10-4311-869d-fe7a095449e4" height="120" alt="Diamond League">
+  </a>
+  <a href="https://tryhackme.com/COMMANDER/badges/sql-slayer?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137">
+    <img src="https://assets.tryhackme.com/img/badges/injection.png" height="110" alt="SQL Slayer Badge"/>
   </a>
 </p>
 <hr/>
