@@ -20,6 +20,10 @@
      style="text-decoration:none; border:none; outline:none; display:inline-block;">
     <img src="https://assets.tryhackme.com/img/badges/streak30.svg" height="100" alt="30 Day Streak Badge">
   </a>
+   <a href="https://tryhackme.com/COMMANDER/badges/network-fundamentals?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"  target="_blank"
+     style="text-decoration:none; border:none; outline:none; display:inline-block;">
+    <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.png"" height="100" alt="30 Day Streak Badge">
+  </a>
   <a href="https://tryhackme.com/COMMANDER/badges/diamond-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"      target="_blank"
      style="text-decoration:none; border:none; outline:none; display:inline-block;">
     <img src="https://github.com/user-attachments/assets/e3005450-2d10-4311-869d-fe7a095449e4" height="100" alt="Diamond League">
