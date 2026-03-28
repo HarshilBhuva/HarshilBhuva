@@ -10,19 +10,19 @@
 <h3 align="center">🛡️ Cybersecurity Practices</h3>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/bhuvaharshil616" target="_blank">
-<img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png?cachE=2026-03-11" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/COMMANDER" target="_blank">
+<img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png?cachE=2026-03-28" alt="TryHackMe Badge" />
    <!-- change cache=20yy-mm each time to get it right -->
   </a>
 </p>
 <p align="center">
- <a href="https://tryhackme.com/COMMANDER/badges/30-day-streak?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"  target="_blank"
+ <a href="https://tryhackme.com/COMMANDER/badges/90-day-streak?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"  target="_blank"
      style="text-decoration:none; border:none; outline:none; display:inline-block;">
-    <img src="https://assets.tryhackme.com/img/badges/streak30.svg" height="100" alt="30 Day Streak Badge">
+    <img src="https://assets.tryhackme.com/img/badges/streak90.svg" height="100" alt="30 Day Streak Badge">
   </a>
    <a href="https://tryhackme.com/COMMANDER/badges/network-fundamentals?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"  target="_blank"
      style="text-decoration:none; border:none; outline:none; display:inline-block;">
-    <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.png"" height="100" alt="30 Day Streak Badge">
+    <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.png" height="100" alt="30 Day Streak Badge">
   </a>
   <a href="https://tryhackme.com/COMMANDER/badges/diamond-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"      target="_blank"
      style="text-decoration:none; border:none; outline:none; display:inline-block;">
