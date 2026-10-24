@@ -53,27 +53,18 @@
 <div align="center">
 
 <a href="https://github.com/HarshilBhuva">
-  <img width="90%" src="https://ghstats.dev/api/card?username=HarshilBhuva" alt="Live GitHub telemetry, including current-year contributions and commit activity" />
+  <img width="90%" src="https://ghstats.dev/api/card?username=HarshilBhuva&hide=stars,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers" alt="GitHub commits and contribution activity for 2026" />
 </a>
 
 <br />
 
 <a href="https://github.com/HarshilBhuva">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HarshilBhuva&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=D1D5DB&icon_color=7CFF6B&rank_icon=github" alt="GitHub account statistics for HarshilBhuva" />
-</a>
-<a href="https://github.com/HarshilBhuva">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarshilBhuva&layout=compact&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=D1D5DB" alt="Language distribution in public repositories" />
-</a>
-
-<br />
-
-<a href="https://github.com/HarshilBhuva">
-  <img src="https://streak-stats.demolab.com?user=HarshilBhuva&theme=transparent&hide_border=true&background=050816&ring=00F5D4&fire=7CFF6B&currStreakLabel=00F5D4&sideLabels=D1D5DB&dates=64748B" alt="GitHub contribution streak" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarshilBhuva&layout=compact&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=D1D5DB&langs_count=6" alt="Most-used languages in public repositories" />
 </a>
 
 </div>
 
-<sub>Telemetry cards query public GitHub activity and may be cached or rate-limited by their providers. The year-labelled card is intended to surface current-year activity; language percentages describe repository contents, not proficiency. No access token is embedded here.</sub>
+<sub>Focused telemetry: current-year activity and repository language distribution. Low-signal counters, follower totals, ranking, and streak cards are intentionally omitted. Third-party cards may be cached or temporarily unavailable; language percentages describe repository contents, not proficiency.</sub>
 
 ## `// current_focus`
 
