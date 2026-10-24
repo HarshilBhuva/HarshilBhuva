@@ -20,9 +20,11 @@
 
 <br>
 
-[![GitHub Stats](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHarshilBhuva&query=followers&prefix=followers%3A%20&label=&color=00ff41&style=flat-square&logo=github)](https://github.com/HarshilBhuva)
-[![Repo Count](https://img.shields.io/github/repos/HarshilBhuva?style=flat-square&label=repos&color=00ff41&logo=github)](https://github.com/HarshilBhuva?tab=repositories)
-[![THM Top 1%](https://img.shields.io/badge/THM-Top_1%25-success?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/COMMANDER)
+[![Hits](https://hits.dwyl.com/HarshilBhuva/HarshilBhuva.svg?style=flat-square&color=00ff41)](https://github.com/HarshilBhuva/HarshilBhuva)
+[![GitHub Followers](https://img.shields.io/github/followers/HarshilBhuva?style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva)
+[![GitHub Following](https://img.shields.io/github/following/HarshilBhuva?style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva)
+[![Repo Count](https://img.shields.io/github/repos/HarshilBhuva?style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva?tab=repositories)
+[![Total Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHarshilBhuva&query=%24.public_repos&prefix=stars%3A%20&label=stars&style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva)
 
 </div>
 
@@ -43,8 +45,8 @@
 
 ### `certifications`
 
-| CCNA | SOC Ops (Cisco) | Ethical Hacker | Pre-Security (THM) | Endpoint Security |
-|------|-----------------|----------------|-------------------|-------------------|
+| CCNA | SOC Ops | Ethical Hacker | Pre-Security | Endpoint Security |
+|------|---------|----------------|--------------|-------------------|
 
 ---
 
@@ -63,17 +65,6 @@
 
 **🏆 BREACH POINT CTF 2026 — Top 50 National Finalist**
 _Cleared Online Qualifier → Competed in 24hr Offline Final at Malla Reddy University_
-
----
-
-### `projects`
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Phishing-URL-Checker](https://github.com/HarshilBhuva/Phishing-URL-Checker) | Detect malicious URLs | Python |
-| [Password-Hygiene-Checker](https://github.com/HarshilBhuva/Password-Hygiene-Checker) | Password strength analysis tool | CSS |
-| [HarshilBhuva.github.io](https://github.com/HarshilBhuva/HarshilBhuva.github.io) | Portfolio website | HTML |
-| [HarshilBhuva](https://github.com/HarshilBhuva/HarshilBhuva) | This profile | Markdown |
 
 ---
 
