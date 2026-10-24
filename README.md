@@ -15,15 +15,8 @@
 > whoami
 > Harshil Bhuva
 > Role: CTF Player | Penetration Tester | Red Team Aspirant
-> Location: Gujarat, India
+> Location: Indonesia
 ```
-
-<br>
-
-[![GitHub Followers](https://img.shields.io/github/followers/HarshilBhuva?style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva)
-[![GitHub Following](https://img.shields.io/github/following/HarshilBhuva?style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva)
-[![Public Repos](https://img.shields.io/github/public-repos/HarshilBhuva?style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva?tab=repositories)
-[![HitCount](https://hits.dwyl.com/HarshilBhuva/HarshilBhuva.svg?style=flat-square&color=00ff41)](https://github.com/HarshilBhuva/HarshilBhuva)
 
 </div>
 
@@ -33,10 +26,10 @@
 
 <div align="center">
 
-[![90-Day Streak](https://assets.tryhackme.com/img/badges/streak90.svg)](https://tryhackme.com/COMMANDER/badges/90-day-streak)
-[![Network Fundamentals](https://assets.tryhackme.com/img/badges/networkfundamentals.png)](https://tryhackme.com/COMMANDER/badges/network-fundamentals)
-[![SQL Slayer](https://assets.tryhackme.com/img/badges/injection.png)](https://tryhackme.com/COMMANDER/badges/sql-slayer)
-[![Diamond League](https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png)](https://tryhackme.com/COMMANDER/badges/diamond-league)
+[![90-Day Streak](https://assets.tryhackme.com/img/badges/streak90.svg)](https://tryhackme.com/p/COMMANDER)
+[![Network Fundamentals](https://assets.tryhackme.com/img/badges/networkfundamentals.png)](https://tryhackme.com/p/COMMANDER)
+[![SQL Slayer](https://assets.tryhackme.com/img/badges/injection.png)](https://tryhackme.com/p/COMMANDER)
+[![Diamond League](https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png)](https://tryhackme.com/p/COMMANDER)
 
 </div>
 
@@ -44,26 +37,38 @@
 
 ### `certifications`
 
-| CCNA | SOC Ops | Ethical Hacker | Pre-Security | Endpoint Security |
-|------|---------|----------------|--------------|-------------------|
+| CCNA | SOC Operations | Ethical Hacker | Pre-Security | Endpoint Security |
+|------|----------------|----------------|--------------|-------------------|
 
 ---
 
 ### `skills`
 
 ```text
-  ⚔ Offensive  │ Recon  •  Vuln Assessment  •  Web Exploitation  •  CTF
-  🐍 Languages  │ Python  •  Bash  •  SQL  •  JavaScript
-  🛠 Tools      │ Burp Suite  •  Nmap  •  Hydra  •  Wireshark  •  VS Code
-  ☁ Cloud/CI   │ GitHub Actions  •  Docker  •  AWS  •  Firebase
+  ⚔ Offensive  │ Recon  ·  Vuln Assessment  ·  Web Exploitation  ·  CTF
+  🐍 Languages │ Python  ·  Bash  ·  SQL  ·  JavaScript
+  🛠 Tools     │ Burp Suite  ·  Nmap  ·  Hydra  ·  Wireshark  ·  VS Code
+  ☁ Cloud     │ Docker  ·  AWS  ·  Firebase  ·  GitHub Actions
 ```
 
 ---
 
 ### `achievements`
 
-**🏆 BREACH POINT CTF 2026 — Top 50 National Finalist**
-_Cleared Online Qualifier → Competed in 24hr Offline Final at Malla Reddy University_
+**BREACH POINT CTF 2026 — Top 50 National Finalist**
+_Cleared Online Qualifier → Competed in the 24-hour Offline Final at Malla Reddy University_
+
+---
+
+### `featured`
+
+| Project | Description |
+|---------|-------------|
+| [ArgusProwl](https://github.com/HarshilBhuva/ArgusProwl) | Modular host-based cybersecurity threat detection |
+| [Phishing-URL-Checker](https://github.com/HarshilBhuva/Phishing-URL-Checker) | Tool to analyze and validate suspicious URLs |
+| [Password-Hygiene-Checker](https://github.com/HarshilBhuva/Password-Hygiene-Checker) | Password strength & hygiene analyzer |
+| [MetaWipe](https://github.com/HarshilBhuva/MetaWipe) | Metadata removal & sanitization utility |
+| [OverTheWire](https://github.com/HarshilBhuva/OverTheWire) | Writeups for the OverTheWire wargames |
 
 ---
 
