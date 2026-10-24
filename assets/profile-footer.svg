@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="82" viewBox="0 0 1200 82" role="img" aria-labelledby="title desc">
+  <title id="title">Profile footer</title>
+  <desc id="desc">Minimal dark terminal-inspired footer with cyan and green signal accents.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F5D4" stop-opacity="0"/>
+      <stop offset=".45" stop-color="#00F5D4"/>
+      <stop offset=".7" stop-color="#7CFF6B"/>
+      <stop offset="1" stop-color="#7CFF6B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 18H1200" stroke="url(#line)" stroke-width="2"/>
+  <path d="M40 32h18l8 8h18m1030-8h18l8 8h18" fill="none" stroke="#00F5D4" stroke-opacity=".45" stroke-width="1.5"/>
+  <text x="600" y="56" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="12" letter-spacing="3">STAY CURIOUS  /  VERIFY EVERYTHING  /  DOCUMENT THE FINDING</text>
+</svg>
