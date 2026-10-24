@@ -66,6 +66,17 @@ _Cleared Online Qualifier → Competed in 24hr Offline Final at Malla Reddy Univ
 
 ---
 
+### `projects`
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Phishing-URL-Checker](https://github.com/HarshilBhuva/Phishing-URL-Checker) | Detect malicious URLs | Python |
+| [Password-Hygiene-Checker](https://github.com/HarshilBhuva/Password-Hygiene-Checker) | Password strength analysis tool | CSS |
+| [HarshilBhuva.github.io](https://github.com/HarshilBhuva/HarshilBhuva.github.io) | Portfolio website | HTML |
+| [HarshilBhuva](https://github.com/HarshilBhuva/HarshilBhuva) | This profile | Markdown |
+
+---
+
 ### `connect`
 
 <div align="center">
