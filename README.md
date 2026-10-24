@@ -29,11 +29,15 @@
 
 **Languages · Web · Development**
 
-<img src="https://skillicons.dev/icons?i=python,bash,html,css,php,mysql,git,github,vscode&theme=dark" alt="Python, Bash, HTML, CSS, PHP, MySQL, Git, GitHub, and Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=python,bash,css,mysql,git,github&theme=dark" alt="Python, Bash, CSS, MySQL, Git, and GitHub" />
 
 <br />
 
-**Red-team · Recon · Web testing**
+**Red-team toolchain · Recon · Web testing**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git&theme=dark&perline=5" alt="Linux, Bash, Python, Docker, and Git — red-team tooling environment" />
+
+<br />
 
 <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /></a>
 <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit Framework" /></a>
