@@ -20,11 +20,11 @@
 
 <br>
 
-[![Hits](https://hits.dwyl.com/HarshilBhuva/HarshilBhuva.svg?style=flat-square&color=00ff41)](https://github.com/HarshilBhuva/HarshilBhuva)
+[![HitCount](https://hits.dwyl.com/HarshilBhuva/HarshilBhuva.svg?style=flat-square&color=00ff41)](https://github.com/HarshilBhuva/HarshilBhuva)
 [![GitHub Followers](https://img.shields.io/github/followers/HarshilBhuva?style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva)
 [![GitHub Following](https://img.shields.io/github/following/HarshilBhuva?style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva)
 [![Public Repos](https://img.shields.io/github/public-repos/HarshilBhuva?style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva?tab=repositories)
-[![Public Gists](https://img.shields.io/github/gists/HarshilBhuva?style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva?tab=gists)
+[![Total Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHarshilBhuva&query=%24.public_repos&prefix=stars&style=flat-square&color=00ff41&logo=github)](https://github.com/HarshilBhuva)
 
 </div>
 
