@@ -1,156 +1,129 @@
-<!--
-  Profile README: HarshilBhuva/HarshilBhuva
-  Keep this focused on security practice, technical interests, and public work.
--->
+<!-- Custom profile README. SVG artwork is stored locally for stable relative paths. -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:050816,50:111827,100:00F5D4&text=HARSHIL%20BH UVA&fontColor=E6FFFB&fontSize=42&fontAlignY=42&desc=SECURITY%20%2F%2F%20SYSTEMS%20%2F%2F%20RESEARCH&descAlignY=63&descSize=13" alt="Harshil Bhuva — Security, Systems, Research" width="100%" />
+<img src="./assets/profile-header.svg" alt="Harshil Bhuva — Security, Systems, Research. Focus areas: web security, Linux and networks, detection engineering." width="100%" />
 
-<code>curiosity &gt; assumptions</code> &nbsp; <code>observe → test → verify</code>
-
-<a href="https://github.com/HarshilBhuva">
-  <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub" />
-</a>
-<a href="https://tryhackme.com/p/COMMANDER">
-  <img src="https://img.shields.io/badge/TryHackMe-050816?style=for-the-badge&logo=tryhackme&logoColor=00F5D4" alt="TryHackMe" />
-</a>
-<a href="https://harshil-bhuva.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=00F5D4" alt="Portfolio" />
-</a>
+<p>
+  <a href="https://github.com/HarshilBhuva">
+    <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub" />
+  </a>
+  <a href="https://tryhackme.com/p/COMMANDER">
+    <img src="https://img.shields.io/badge/TryHackMe-050816?style=for-the-badge&logo=tryhackme&logoColor=7CFF6B" alt="TryHackMe" />
+  </a>
+  <a href="https://harshil-bhuva.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
+  </a>
+</p>
 
 </div>
 
----
+## `// profile`
 
-## whoami
+> Security-minded builder exploring how applications, operating systems, and networks behave under pressure. I use practical labs and small projects to develop a methodical approach to testing, investigation, and defensive engineering.
 
-I'm a security-focused technologist interested in how applications, operating systems, and networks behave under pressure. I use hands-on labs and small engineering experiments to build practical skills, understand root causes, and improve the way I investigate technical problems.
+| Terminal field | Current direction |
+|---|---|
+| `PRIMARY_INTEREST` | Web application security and penetration-testing methodology |
+| `SYSTEMS` | Linux, networking, and infrastructure security |
+| `ENGINEERING` | Python, automation, and maintainable tooling |
+| `METHOD` | Scope → observe → test → validate → document |
 
-- **Primary interests:** Web security, penetration-testing methodology, network defense, and threat detection
-- **Building skills in:** Python automation, Linux, traffic analysis, and security tooling
-- **Approach:** Reproduce the behavior, collect evidence, validate the finding, document the result
-- **Learning style:** Build, test in authorized labs, and write technical notes
-
-## areas_of_interest
+## `// technical_arsenal`
 
 <div align="center">
+
+**Languages & development**
+
+<img src="https://skillicons.dev/icons?i=python,bash,html,css,php,mysql,git,github,vscode&theme=dark" alt="Python, Bash, HTML, CSS, PHP, MySQL, Git, GitHub, and VS Code" />
+
+<br />
+
+<img src="https://img.shields.io/badge/OS-Linux-7CFF6B?style=flat-square&labelColor=050816" alt="Linux" />
+<img src="https://img.shields.io/badge/Web%20Testing-Burp%20Suite-00F5D4?style=flat-square&labelColor=050816" alt="Burp Suite web testing" />
+<img src="https://img.shields.io/badge/Lab%20Platform-TryHackMe-38BDF8?style=flat-square&labelColor=050816" alt="TryHackMe" />
+
+</div>
+
+## `// selected_work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/01-WEB%20SECURITY-00F5D4?style=flat-square&labelColor=050816" alt="01 Web Security" />
+### [Password Hygiene Checker](https://github.com/HarshilBhuva/Password-Hygiene-Checker)
 
-Request/response analysis, attack-surface mapping, authentication and authorization testing, input handling, and practical remediation.
+A Flask-based web app that evaluates password characteristics, flags common weaknesses and repeated patterns, and provides improvement recommendations.
 
-</td>
-<td width="50%" valign="top">
+**Stack:** Python · Flask · HTML/CSS
 
-### <img src="https://img.shields.io/badge/02-DETECTION-00F5D4?style=flat-square&labelColor=050816" alt="02 Detection" />
-
-Security telemetry, event normalization, detection logic, correlation, enrichment, and explainable alerts.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/03-NETWORKS-00F5D4?style=flat-square&labelColor=050816" alt="03 Networks" />
-
-Protocols, service discovery, traffic inspection, network visibility, and infrastructure hardening.
+[View repository →](https://github.com/HarshilBhuva/Password-Hygiene-Checker)
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/04-ENGINEERING-00F5D4?style=flat-square&labelColor=050816" alt="04 Engineering" />
+### [Phishing URL Checker](https://github.com/HarshilBhuva/Phishing-URL-Checker)
 
-Python tooling, modular design, clean interfaces, repeatable tests, and maintainable security automation.
+A web app that assesses potentially suspicious URLs using URL structure, certificate checks, domain-age information, and phishing indicators.
+
+**Stack:** Python · Flask · Requests · WHOIS
+
+[View repository →](https://github.com/HarshilBhuva/Phishing-URL-Checker)
 
 </td>
 </tr>
 </table>
 
-</div>
+<sub>Descriptions and technology labels are based on each repository's public README. These projects describe heuristic checks; their results should not be treated as definitive security verdicts.</sub>
 
-## toolbox
+## `// live_telemetry`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,mysql,html,css,php&theme=dark" alt="Linux, Python, Bash, Git, GitHub, VS Code, MySQL, HTML, CSS, PHP" />
+<a href="https://github.com/HarshilBhuva">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HarshilBhuva&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=D1D5DB&icon_color=7CFF6B&rank_icon=github" alt="GitHub account statistics for HarshilBhuva" />
+</a>
+<a href="https://github.com/HarshilBhuva">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarshilBhuva&layout=compact&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=D1D5DB" alt="Language distribution in public repositories" />
+</a>
 
 <br />
 
-<img src="https://img.shields.io/badge/Web%20Testing-Burp%20Suite-00F5D4?style=flat-square&labelColor=050816" alt="Web testing with Burp Suite" />
-<img src="https://img.shields.io/badge/Lab%20Practice-TryHackMe-00F5D4?style=flat-square&labelColor=050816" alt="TryHackMe lab practice" />
-<img src="https://img.shields.io/badge/Environment-Linux-00F5D4?style=flat-square&labelColor=050816" alt="Linux environment" />
+<a href="https://github.com/HarshilBhuva">
+  <img src="https://streak-stats.demolab.com?user=HarshilBhuva&theme=transparent&hide_border=true&background=050816&ring=00F5D4&fire=7CFF6B&currStreakLabel=00F5D4&sideLabels=D1D5DB&dates=64748B" alt="GitHub contribution streak" />
+</a>
 
 </div>
 
-## lab_log
+<sub>These cards are rendered by third-party services from public GitHub data. They can be cached, rate-limited, or temporarily unavailable; language percentages describe repository contents, not proficiency. No access token is embedded in the README. If a card fails, the GitHub links above remain the fallback.</sub>
+
+## `// current_focus`
+
+- Build a consistent web assessment workflow: map the surface, test deliberately, validate findings, and report clearly.
+- Strengthen Linux and network analysis fundamentals through hands-on labs.
+- Explore detection engineering and Python automation with an emphasis on reproducible results.
 
 <div align="center">
 
 <a href="https://tryhackme.com/p/COMMANDER">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png" alt="TryHackMe profile badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png" alt="Live TryHackMe profile badge" />
 </a>
 
 <br />
 
 <a href="https://tryhackme.com/COMMANDER/badges/90-day-streak">
-  <img src="https://assets.tryhackme.com/img/badges/streak90.svg" height="86" alt="TryHackMe 90-day streak badge" />
+  <img src="https://assets.tryhackme.com/img/badges/streak90.svg" height="82" alt="TryHackMe 90-day streak badge" />
 </a>
 <a href="https://tryhackme.com/COMMANDER/badges/network-fundamentals">
-  <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.png" height="86" alt="TryHackMe Network Fundamentals badge" />
+  <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.png" height="82" alt="TryHackMe Network Fundamentals badge" />
 </a>
 <a href="https://tryhackme.com/COMMANDER/badges/diamond-league">
-  <img src="https://github.com/user-attachments/assets/e3005450-2d10-4311-869d-fe7a095449e4" height="86" alt="TryHackMe Diamond League badge" />
+  <img src="https://github.com/user-attachments/assets/e3005450-2d10-4311-869d-fe7a095449e4" height="82" alt="TryHackMe Diamond League badge" />
 </a>
 <a href="https://tryhackme.com/COMMANDER/badges/sql-slayer">
-  <img src="https://assets.tryhackme.com/img/badges/injection.png" height="86" alt="TryHackMe SQL Slayer badge" />
+  <img src="https://assets.tryhackme.com/img/badges/injection.png" height="82" alt="TryHackMe SQL Slayer badge" />
 </a>
 
-</div>
-
-## live_telemetry
-
-<div align="center">
-
-<a href="https://github.com/HarshilBhuva">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=HarshilBhuva&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=D1D5DB&icon_color=00F5D4&ring_color=00F5D4" alt="Live GitHub account statistics" />
-</a>
-<a href="https://github.com/HarshilBhuva">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilBhuva&layout=compact&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=D1D5DB" alt="Most used languages from public GitHub repositories" />
-</a>
-
-<br />
-
-<a href="https://github.com/HarshilBhuva">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshilBhuva&theme=transparent&hide_border=true&background=050816&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=D1D5DB&dates=6B7280" alt="GitHub contribution streak statistics" />
-</a>
-
-</div>
-
-<sub>Stats and language charts are generated by third-party services from public GitHub data. They may be temporarily unavailable or delayed. Language percentages describe repository contents, not skill level.</sub>
-
-## currently_working_on
-
-- Developing a repeatable workflow for web application assessments: scope, map, test, validate, report.
-- Improving detection logic and analysis pipelines with testable, explainable outputs.
-- Writing clearer lab notes that capture evidence, methodology, and lessons learned.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5D4,100:050816" alt="" width="100%" />
-
-<code>Stay curious. Verify everything. Leave good notes.</code>
-
-<br />
-
-<a href="https://github.com/HarshilBhuva">
-  <img src="https://komarev.com/ghpvc/?username=HarshilBhuva&style=flat-square&color=00F5D4&label=PROFILE+SIGNALS" alt="Profile view counter" />
-</a>
+<img src="./assets/profile-footer.svg" alt="Stay curious, verify everything, document the finding." width="100%" />
 
 </div>
