@@ -38,7 +38,7 @@
     <circle cx="360" cy="92" r="5" fill="#27c93f"/>
     <line x1="300" y1="104" x2="700" y2="104" stroke="#1f6feb" stroke-width="1" opacity="0.5"/>
     <text x="324" y="132" font-family="Consolas, monospace" font-size="17" fill="#0af">&gt; whoami</text>
-    <text x="432" y="132" font-family="Consolas, monospace" font-size="17" fill="#e6edf3">harshil</text>
+    <text x="432" y="132" font-family="Consolas, monospace" font-size="17" fill="#e6edf3">Harshil Bhuva</text>
     <text x="324" y="160" font-family="Consolas, monospace" font-size="17" fill="#0af">&gt; mission</text>
     <text x="452" y="160" font-family="Consolas, monospace" font-size="17" fill="#e6edf3">break &amp; defend</text>
     <text x="324" y="188" font-family="Consolas, monospace" font-size="17" fill="#0af">&gt; </text>
