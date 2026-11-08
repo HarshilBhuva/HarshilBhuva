@@ -69,6 +69,47 @@
   <img src="assets/section-divider.svg" alt="" width="640"/>
 </p>
 
+<h3 align="center">Active Ops</h3>
+
+<details>
+<summary><code>current loadout</code></summary>
+
+- **Flask API** — stood up a Flask app with a `/` health endpoint. Foundation for tooling and automation.
+- **OWASP Juice Shop** — primary range for web pen-testing. SQLi, auth, XSS, business logic.
+- **Burp Suite** — intercept, inspect, and exploit. The core web pentest weapon.
+- **Network Fundamentals** — locked in. Not just a badge, the base layer.
+- **SQL Injection** — SQL Slayer badge earned. Web app attack surface.
+
+</details>
+
+<details>
+<summary><code>threat model</code></summary>
+
+- **Web app attack surface** — OWASP Top 10, Juice Shop as the proving ground
+- **Network attack surface** — enumeration, lateral movement, protocol exploitation
+- **Social engineering** — the human firewall is the weakest link
+- **Defensive mindset** — build to break, break to defend, repeat
+
+</details>
+
+<details>
+<summary><code>roadmap</code></summary>
+
+- [x] 90-day streak
+- [x] Diamond League
+- [x] SQL Slayer
+- [x] Network Fundamentals
+- [ ] Web pentest specialization (OWASP Juice Shop)
+- [ ] API security
+- [ ] Cloud security
+- [ ] Red team fundamentals
+
+</details>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="640"/>
+</p>
+
 <h3 align="center">Skills &amp; Tools</h3>
 
 <p align="center">
