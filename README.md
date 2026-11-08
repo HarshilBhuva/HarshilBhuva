@@ -13,6 +13,27 @@
   <img src="assets/section-divider.svg" alt="" width="640"/>
 </p>
 
+<h3 align="center">Threat Intel</h3>
+
+<details>
+<summary><code>agent status: OPERATIONAL</code></summary>
+
+| FIELD | VALUE |
+|---|---|
+| **Call sign** | COMMANDER |
+| **90-day streak** | ACTIVE — no missed days |
+| **League** | DIAMOND — top tier on TryHackMe |
+| **Weaknesses exploited** | SQL injection, network stacks |
+| **Attack vectors** | Web app, network, social |
+| **Primary focus** | OWASP Juice Shop → Web Penth |
+| **Current mission** | Break things. Defend systems. |
+
+</details>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="640"/>
+</p>
+
 <h3 align="center">Cybersecurity</h3>
 
 <p align="center">
@@ -39,6 +60,10 @@
     <img src="https://assets.tryhackme.com/img/badges/injection.png" height="100" alt="SQL Slayer Badge"/>
   </a>
 </p>
+
+<blockquote>
+  <p align="center"><code>90 days. Zero missed. Diamond League. The streak never stops.</code></p>
+</blockquote>
 
 <p align="center">
   <img src="assets/section-divider.svg" alt="" width="640"/>
