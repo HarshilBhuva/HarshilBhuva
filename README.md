@@ -1,13 +1,19 @@
-<h1 align="center">Hi, I'm Harshil Bhuva 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Aspiring Penetration Tester | Building Skills to Break & Defend</h3>
-
 <p align="center">
-🌱 Currently learning <strong>Web Penetration Testing using OWASP Juice Shop </strong>
+  <img src="assets/hero.svg" alt="Cybersecurity terminal banner" width="100%"/>
 </p>
 
-<hr/>
+<h1 align="center">Harshil Bhuva</h1>
+<h3 align="center">Cybersecurity Enthusiast &nbsp;|&nbsp; Aspiring Penetration Tester &nbsp;|&nbsp; Building Skills to Break &amp; Defend</h3>
 
-<h3 align="center">🛡️ Cybersecurity Practices</h3>
+<p align="center">
+  <strong>~ Currently learning Web Penetration Testing using OWASP Juice Shop ~</strong>
+</p>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="640"/>
+</p>
+
+<h3 align="center">Cybersecurity</h3>
 
 <p align="center">
   <a href="https://tryhackme.com/p/COMMANDER" target="_blank">
@@ -33,9 +39,12 @@
     <img src="https://assets.tryhackme.com/img/badges/injection.png" height="100" alt="SQL Slayer Badge"/>
   </a>
 </p>
-<hr/>
 
-<h3 align="center">🧰 Languages & Tools</h3>
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="640"/>
+</p>
+
+<h3 align="center">Skills &amp; Tools</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>

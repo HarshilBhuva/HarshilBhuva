@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="280" viewBox="0 0 1000 280" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07090f"/>
+      <stop offset="0.6" stop-color="#0a0e1a"/>
+      <stop offset="1" stop-color="#0d1326"/>
+    </linearGradient>
+    <pattern id="hex" width="56" height="64" patternUnits="userSpaceOnUse" patternTransform="translate(0 0)">
+      <path d="M28 0 L56 16 L56 48 L28 64 L0 48 L0 16 Z" fill="none" stroke="#163a5f" stroke-width="0.6" opacity="0.35"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#0af" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#0af" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="280" fill="url(#bg)"/>
+  <rect width="1000" height="280" fill="url(#hex)"/>
+  <rect width="1000" height="280" fill="url(#glow)"/>
+  <!-- scanline texture -->
+  <g opacity="0.05" stroke="#0af">
+    <line x1="0" y1="20" x2="1000" y2="20"/><line x1="0" y1="60" x2="1000" y2="60"/>
+    <line x1="0" y1="100" x2="1000" y2="100"/><line x1="0" y1="140" x2="1000" y2="140"/>
+    <line x1="0" y1="180" x2="1000" y2="180"/><line x1="0" y1="220" x2="1000" y2="220"/>
+    <line x1="0" y1="260" x2="1000" y2="260"/>
+  </g>
+  <!-- corner ticks -->
+  <g stroke="#0af" stroke-width="2" opacity="0.5">
+    <path d="M16 40 L16 16 L40 16" fill="none"/>
+    <path d="M984 40 L984 16 L960 16" fill="none"/>
+    <path d="M16 240 L16 264 L40 264" fill="none"/>
+    <path d="M984 240 L984 264 L960 264" fill="none"/>
+  </g>
+  <!-- terminal card -->
+  <g>
+    <rect x="300" y="70" width="400" height="140" rx="10" fill="#0a0e1a" stroke="#1f6feb" stroke-width="1.5" opacity="0.95"/>
+    <circle cx="324" cy="92" r="5" fill="#ff5f56"/>
+    <circle cx="342" cy="92" r="5" fill="#ffbd2e"/>
+    <circle cx="360" cy="92" r="5" fill="#27c93f"/>
+    <line x1="300" y1="104" x2="700" y2="104" stroke="#1f6feb" stroke-width="1" opacity="0.5"/>
+    <text x="324" y="132" font-family="Consolas, monospace" font-size="17" fill="#0af">&gt; whoami</text>
+    <text x="432" y="132" font-family="Consolas, monospace" font-size="17" fill="#e6edf3">harshil</text>
+    <text x="324" y="160" font-family="Consolas, monospace" font-size="17" fill="#0af">&gt; mission</text>
+    <text x="452" y="160" font-family="Consolas, monospace" font-size="17" fill="#e6edf3">break &amp; defend</text>
+    <text x="324" y="188" font-family="Consolas, monospace" font-size="17" fill="#0af">&gt; </text>
+    <rect x="352" y="178" width="10" height="14" fill="#2ea8e8"/>
+  </g>
+</svg>
