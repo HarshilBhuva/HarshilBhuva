@@ -127,3 +127,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 </p>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="640"/>
+</p>
+
+<h3 align="center">Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshilBhuva/HarshilBhuva/output/profile-night-view.svg" alt="Harshil Bhuva's 3D contribution graph in night view" width="100%"/>
+</p>
