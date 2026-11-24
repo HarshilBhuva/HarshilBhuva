@@ -1,13 +1,40 @@
-<h1 align="center">Hi, I'm Harshil Bhuva 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Aspiring Penetration Tester | Building Skills to Break & Defend</h3>
-
 <p align="center">
-🌱 Currently learning <strong>Web Penetration Testing using OWASP Juice Shop </strong>
+  <img src="assets/hero.svg" alt="Cybersecurity terminal banner" width="100%"/>
 </p>
 
-<hr/>
+<h1 align="center">Harshil Bhuva</h1>
+<h3 align="center">Cybersecurity Enthusiast &nbsp;|&nbsp; Aspiring Penetration Tester &nbsp;|&nbsp; Building Skills to Break &amp; Defend</h3>
 
-<h3 align="center">🛡️ Cybersecurity Practices</h3>
+<p align="center">
+  <strong>~ Currently learning Web Penetration Testing using OWASP Juice Shop ~</strong>
+</p>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="640"/>
+</p>
+
+<h3 align="center">Threat Intel</h3>
+
+<details>
+<summary><code>agent status: OPERATIONAL</code></summary>
+
+| FIELD | VALUE |
+|---|---|
+| **Call sign** | COMMANDER |
+| **90-day streak** | ACTIVE — no missed days |
+| **League** | DIAMOND — top tier on TryHackMe |
+| **Weaknesses exploited** | SQL injection, network stacks |
+| **Attack vectors** | Web app, network, social |
+| **Primary focus** | OWASP Juice Shop → Web Penth |
+| **Current mission** | Break things. Defend systems. |
+
+</details>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="640"/>
+</p>
+
+<h3 align="center">Cybersecurity</h3>
 
 <p align="center">
   <a href="https://tryhackme.com/p/COMMANDER" target="_blank">
@@ -33,9 +60,57 @@
     <img src="https://assets.tryhackme.com/img/badges/injection.png" height="100" alt="SQL Slayer Badge"/>
   </a>
 </p>
-<hr/>
 
-<h3 align="center">🧰 Languages & Tools</h3>
+<blockquote>
+  <p align="center"><code>90 days. Zero missed. Diamond League. The streak never stops.</code></p>
+</blockquote>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="640"/>
+</p>
+
+<h3 align="center">Active Ops</h3>
+
+<details>
+<summary><code>current loadout</code></summary>
+
+- **Flask API** — stood up a Flask app with a `/` health endpoint. Foundation for tooling and automation.
+- **OWASP Juice Shop** — primary range for web pen-testing. SQLi, auth, XSS, business logic.
+- **Burp Suite** — intercept, inspect, and exploit. The core web pentest weapon.
+- **Network Fundamentals** — locked in. Not just a badge, the base layer.
+- **SQL Injection** — SQL Slayer badge earned. Web app attack surface.
+
+</details>
+
+<details>
+<summary><code>threat model</code></summary>
+
+- **Web app attack surface** — OWASP Top 10, Juice Shop as the proving ground
+- **Network attack surface** — enumeration, lateral movement, protocol exploitation
+- **Social engineering** — the human firewall is the weakest link
+- **Defensive mindset** — build to break, break to defend, repeat
+
+</details>
+
+<details>
+<summary><code>roadmap</code></summary>
+
+- [x] 90-day streak
+- [x] Diamond League
+- [x] SQL Slayer
+- [x] Network Fundamentals
+- [ ] Web pentest specialization (OWASP Juice Shop)
+- [ ] API security
+- [ ] Cloud security
+- [ ] Red team fundamentals
+
+</details>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="640"/>
+</p>
+
+<h3 align="center">Skills &amp; Tools</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
@@ -51,4 +126,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+</p>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="640"/>
+</p>
+
+<h3 align="center">Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshilBhuva/HarshilBhuva/output/profile-night-view.svg" alt="Harshil Bhuva's 3D contribution graph in night view" width="100%"/>
 </p>
