@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">Engineering Solar System</title>
+<desc id="desc">An orbital map showing PacketHawk and ArgusProwl as featured project planets, with Rust, Python, Linux and network security as engineering disciplines.</desc>
+<defs>
+ <linearGradient id="space" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06121b"/><stop offset=".52" stop-color="#0a2028"/><stop offset="1" stop-color="#07131a"/></linearGradient>
+ <radialGradient id="core"><stop stop-color="#ecfeff"/><stop offset=".18" stop-color="#99f6e4"/><stop offset=".48" stop-color="#14b8a6"/><stop offset="1" stop-color="#0f766e" stop-opacity="0"/></radialGradient>
+ <linearGradient id="planet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#99f6e4"/><stop offset="1" stop-color="#0f766e"/></linearGradient>
+ <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect width="1200" height="700" rx="24" fill="url(#space)"/>
+<rect x="1" y="1" width="1198" height="698" rx="23" fill="none" stroke="#1b555a"/>
+<g fill="#d9fffa" opacity=".55"><circle cx="90" cy="104" r="1.5"/><circle cx="168" cy="520" r="1"/><circle cx="290" cy="172" r="1.2"/><circle cx="415" cy="612" r="1.5"/><circle cx="610" cy="92" r="1"/><circle cx="760" cy="570" r="1.4"/><circle cx="1035" cy="126" r="1"/><circle cx="1100" cy="510" r="1.4"/><circle cx="940" cy="620" r="1"/><circle cx="75" cy="340" r="1"/></g>
+<text x="58" y="62" fill="#5eead4" font-family="monospace" font-size="14" letter-spacing="4">MISSION MAP / 2026</text>
+<text x="58" y="99" fill="#e6fffb" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">An ecosystem of security engineering</text>
+<g fill="none" stroke="#2dd4bf" opacity=".2">
+ <ellipse cx="610" cy="374" rx="190" ry="110" transform="rotate(-18 610 374)" stroke-width="1.5"/>
+ <ellipse cx="610" cy="374" rx="310" ry="175" transform="rotate(-18 610 374)" stroke-width="1.5"/>
+ <ellipse cx="610" cy="374" rx="435" ry="245" transform="rotate(-18 610 374)" stroke-width="1.5"/>
+ <ellipse cx="610" cy="374" rx="540" ry="300" transform="rotate(-18 610 374)" stroke-width="1.5" stroke-dasharray="3 9"/>
+</g>
+<circle cx="610" cy="374" r="100" fill="#14b8a6" opacity=".13" filter="url(#soft)"/>
+<circle cx="610" cy="374" r="67" fill="url(#core)"/>
+<circle cx="610" cy="374" r="23" fill="#99f6e4"/>
+<circle cx="603" cy="367" r="8" fill="#ecfeff"/>
+<text x="610" y="464" fill="#ccfbf1" font-family="monospace" font-size="12" text-anchor="middle" letter-spacing="2">COMMAND / BUILD</text>
+<!-- PacketHawk -->
+<g>
+ <circle cx="355" cy="288" r="34" fill="#0f766e" opacity=".28"/>
+ <circle cx="355" cy="288" r="23" fill="url(#planet)" stroke="#99f6e4" stroke-width="1.5"/>
+ <path d="M340 288h30M355 273v30M345 278l20 20M365 278l-20 20" stroke="#e6fffb" stroke-width="1.5" opacity=".8"/>
+ <text x="355" y="337" text-anchor="middle" fill="#d5fff8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">PacketHawk</text>
+ <text x="355" y="358" text-anchor="middle" fill="#75bdb4" font-family="monospace" font-size="11">RUST / PCAP ANALYSIS</text>
+</g>
+<!-- ArgusProwl -->
+<g>
+ <circle cx="910" cy="475" r="38" fill="#0f766e" opacity=".3"/>
+ <circle cx="910" cy="475" r="25" fill="#0e7490" stroke="#67e8f9" stroke-width="1.5"/>
+ <path d="M910 457l16 9v18l-16 9-16-9v-18z" fill="none" stroke="#cffafe" stroke-width="1.5"/>
+ <circle cx="910" cy="475" r="5" fill="#cffafe"/>
+ <text x="910" y="525" text-anchor="middle" fill="#d5fff8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">ArgusProwl</text>
+ <text x="910" y="546" text-anchor="middle" fill="#75bdb4" font-family="monospace" font-size="11">THREAT HUNTING</text>
+</g>
+<!-- Skill satellites -->
+<g font-family="monospace" font-size="13" text-anchor="middle">
+ <g><circle cx="610" cy="193" r="17" fill="#1d4ed8" stroke="#93c5fd"/><text x="610" y="198" fill="#eff6ff" font-weight="700">Rs</text><text x="610" y="164" fill="#93c5fd">RUST</text></g>
+ <g><circle cx="790" cy="302" r="17" fill="#1d4ed8" stroke="#93c5fd"/><text x="790" y="307" fill="#eff6ff" font-weight="700">Py</text><text x="790" y="273" fill="#93c5fd">PYTHON</text></g>
+ <g><circle cx="470" cy="500" r="17" fill="#334155" stroke="#cbd5e1"/><text x="470" y="505" fill="#f8fafc" font-weight="700">Lx</text><text x="470" y="532" fill="#cbd5e1">LINUX</text></g>
+ <g><circle cx="750" cy="560" r="17" fill="#0f766e" stroke="#5eead4"/><text x="750" y="565" fill="#ecfdf5" font-weight="700">Net</text><text x="750" y="590" fill="#5eead4">NETWORKS</text></g>
+</g>
+<path d="M58 642H1142" stroke="#1c5559"/>
+<text x="60" y="670" fill="#5b9290" font-family="monospace" font-size="11" letter-spacing="1">PROJECTS ARE PUBLICLY LINKED BELOW · RESEARCH AND EXPERIMENTS MAY REMAIN PRIVATE</text>
+<text x="1140" y="670" text-anchor="end" fill="#5b9290" font-family="monospace" font-size="11">HB / 01</text>
+</svg>
