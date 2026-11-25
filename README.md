@@ -1,139 +1,121 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Cybersecurity terminal banner" width="100%"/>
-</p>
-
-<h1 align="center">Harshil Bhuva</h1>
-<h3 align="center">Cybersecurity Enthusiast &nbsp;|&nbsp; Aspiring Penetration Tester &nbsp;|&nbsp; Building Skills to Break &amp; Defend</h3>
-
-<p align="center">
-  <strong>~ Currently learning Web Penetration Testing using OWASP Juice Shop ~</strong>
-</p>
+<!--
+  Harshil Bhuva — GitHub profile
+  Visual system: Solar / deep-space / cyan
+  All illustrations in this repository are original, self-hosted SVG assets.
+-->
 
 <p align="center">
-  <img src="assets/section-divider.svg" alt="" width="640"/>
+  <img src="assets/hero.svg" alt="Harshil Bhuva — Security Engineering, Network Systems and Rust" width="100%" />
 </p>
 
-<h3 align="center">Threat Intel</h3>
+<p align="center">
+  <a href="https://github.com/HarshilBhuva"><img src="https://img.shields.io/badge/GitHub-HarshilBhuva-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://tryhackme.com/p/COMMANDER"><img src="https://img.shields.io/badge/TryHackMe-COMMANDER-172554?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://harshil-bhuva.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-<details>
-<summary><code>agent status: OPERATIONAL</code></summary>
+<p align="center">
+  <strong>Security engineering · Network systems · Rust</strong><br/>
+  I build tools for understanding network traffic, detecting threats, and making security telemetry actionable.
+</p>
 
-| FIELD | VALUE |
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="100%" />
+</p>
+
+## Mission control
+
+I'm a computer science student focused on cybersecurity and systems engineering. My work sits at the intersection of network analysis, threat detection, automation, and practical software development.
+
+- **Build:** security tools and systems with an emphasis on clear architecture and reproducible results.
+- **Investigate:** network traffic, telemetry, detection logic, and evidence.
+- **Learn:** Rust, operating systems, protocols, and defensive security engineering.
+
+<p align="center">
+  <img src="assets/solar-system.svg" alt="Solar system map of my engineering focus and featured projects: PacketHawk, ArgusProwl, Rust, Python and network security" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Projects are the planets. Engineering disciplines are the orbits. The work is always in motion.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="100%" />
+</p>
+
+## Featured missions
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ PacketHawk</h3>
+      <p><strong>Offline network traffic analysis in Rust.</strong></p>
+      <p>Inspect PCAP/PCAPNG captures, aggregate flows, and surface security-relevant findings with an evidence-first workflow.</p>
+      <p>
+        <a href="https://github.com/HarshilBhuva/PacketHawk">Repository</a> ·
+        <a href="https://github.com/HarshilBhuva/PacketHawk/releases">Releases</a>
+      </p>
+      <p><code>Rust</code> <code>PCAP</code> <code>Network Security</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ ArgusProwl</h3>
+      <p><strong>Security monitoring and threat-hunting platform.</strong></p>
+      <p>A modular platform for collecting, normalizing, correlating, and investigating security telemetry.</p>
+      <p><a href="https://github.com/HarshilBhuva/ArgusProwl">Repository</a></p>
+      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Detection Engineering</code></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="100%" />
+</p>
+
+## Engineering stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,linux,bash,docker,git,github,fastapi,react,postgres,redis&theme=dark" alt="Rust, Python, Linux, Bash, Docker, Git, GitHub, FastAPI, React, PostgreSQL and Redis" />
+</p>
+
+<p align="center">
+  <sub>Tools and technologies I use or actively work with — not a claim of equal proficiency across every item.</sub>
+</p>
+
+## Areas of focus
+
+| Domain | What I work on |
 |---|---|
-| **Call sign** | COMMANDER |
-| **90-day streak** | ACTIVE — no missed days |
-| **League** | DIAMOND — top tier on TryHackMe |
-| **Weaknesses exploited** | SQL injection, network stacks |
-| **Attack vectors** | Web app, network, social |
-| **Primary focus** | OWASP Juice Shop → Web Penth |
-| **Current mission** | Break things. Defend systems. |
-
-</details>
+| Network security | Packet analysis, protocols, flow metadata, traffic investigation |
+| Detection engineering | Telemetry pipelines, normalization, correlation, evidence-backed alerts |
+| Systems programming | Rust, performance, reliability, and resource-aware design |
+| Security engineering | Linux, automation, application and infrastructure security |
 
 <p align="center">
-  <img src="assets/section-divider.svg" alt="" width="640"/>
+  <img src="assets/section-divider.svg" alt="" width="100%" />
 </p>
 
-<h3 align="center">Cybersecurity</h3>
+## Activity telemetry
 
 <p align="center">
-  <a href="https://tryhackme.com/p/COMMANDER" target="_blank">
-<img src="https://tryhackme-badges.s3.amazonaws.com/COMMANDER.png?cachE=2026-03-28" alt="TryHackMe Badge" />
-   <!-- change cache=20yy-mm each time to get it right -->
-  </a>
-</p>
-<p align="center">
- <a href="https://tryhackme.com/COMMANDER/badges/90-day-streak?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"  target="_blank"
-     style="text-decoration:none; border:none; outline:none; display:inline-block;">
-    <img src="https://assets.tryhackme.com/img/badges/streak90.svg" height="100" alt="30 Day Streak Badge">
-  </a>
-   <a href="https://tryhackme.com/COMMANDER/badges/network-fundamentals?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"  target="_blank"
-     style="text-decoration:none; border:none; outline:none; display:inline-block;">
-    <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.png" height="100" alt="30 Day Streak Badge">
-  </a>
-  <a href="https://tryhackme.com/COMMANDER/badges/diamond-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"      target="_blank"
-     style="text-decoration:none; border:none; outline:none; display:inline-block;">
-    <img src="https://github.com/user-attachments/assets/e3005450-2d10-4311-869d-fe7a095449e4" height="100" alt="Diamond League">
-  </a>
-  <a href="https://tryhackme.com/COMMANDER/badges/sql-slayer?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6725fe52cf0dbd27420aa137"      target="_blank"
-     style="text-decoration:none; border:none; outline:none; display:inline-block;">
-    <img src="https://assets.tryhackme.com/img/badges/injection.png" height="100" alt="SQL Slayer Badge"/>
-  </a>
-</p>
-
-<blockquote>
-  <p align="center"><code>90 days. Zero missed. Diamond League. The streak never stops.</code></p>
-</blockquote>
-
-<p align="center">
-  <img src="assets/section-divider.svg" alt="" width="640"/>
-</p>
-
-<h3 align="center">Active Ops</h3>
-
-<details>
-<summary><code>current loadout</code></summary>
-
-- **Flask API** — stood up a Flask app with a `/` health endpoint. Foundation for tooling and automation.
-- **OWASP Juice Shop** — primary range for web pen-testing. SQLi, auth, XSS, business logic.
-- **Burp Suite** — intercept, inspect, and exploit. The core web pentest weapon.
-- **Network Fundamentals** — locked in. Not just a badge, the base layer.
-- **SQL Injection** — SQL Slayer badge earned. Web app attack surface.
-
-</details>
-
-<details>
-<summary><code>threat model</code></summary>
-
-- **Web app attack surface** — OWASP Top 10, Juice Shop as the proving ground
-- **Network attack surface** — enumeration, lateral movement, protocol exploitation
-- **Social engineering** — the human firewall is the weakest link
-- **Defensive mindset** — build to break, break to defend, repeat
-
-</details>
-
-<details>
-<summary><code>roadmap</code></summary>
-
-- [x] 90-day streak
-- [x] Diamond League
-- [x] SQL Slayer
-- [x] Network Fundamentals
-- [ ] Web pentest specialization (OWASP Juice Shop)
-- [ ] API security
-- [ ] Cloud security
-- [ ] Red team fundamentals
-
-</details>
-
-<p align="center">
-  <img src="assets/section-divider.svg" alt="" width="640"/>
-</p>
-
-<h3 align="center">Skills &amp; Tools</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.15.0/burpsuite.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshilBhuva&bg_color=07131a&color=8be9df&line=21c7b7&point=d8fff8&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/section-divider.svg" alt="" width="640"/>
+  <img src="https://raw.githubusercontent.com/HarshilBhuva/HarshilBhuva/output/profile-night-view.svg" alt="3D GitHub contribution graph" width="100%" />
 </p>
 
-<h3 align="center">Contribution Graph</h3>
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="100%" />
+</p>
+
+## Connect
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarshilBhuva/HarshilBhuva/output/profile-night-view.svg" alt="Harshil Bhuva's 3D contribution graph in night view" width="100%"/>
+  <a href="https://github.com/HarshilBhuva">GitHub</a> ·
+  <a href="https://harshil-bhuva.vercel.app">Portfolio</a> ·
+  <a href="https://tryhackme.com/p/COMMANDER">TryHackMe</a>
+</p>
+
+<p align="center">
+  <sub>Curiosity in. Evidence out. Keep building.</sub>
 </p>

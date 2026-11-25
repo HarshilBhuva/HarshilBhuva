@@ -1,47 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="280" viewBox="0 0 1000 280" preserveAspectRatio="xMidYMid slice">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07090f"/>
-      <stop offset="0.6" stop-color="#0a0e1a"/>
-      <stop offset="1" stop-color="#0d1326"/>
-    </linearGradient>
-    <pattern id="hex" width="56" height="64" patternUnits="userSpaceOnUse" patternTransform="translate(0 0)">
-      <path d="M28 0 L56 16 L56 48 L28 64 L0 48 L0 16 Z" fill="none" stroke="#163a5f" stroke-width="0.6" opacity="0.35"/>
-    </pattern>
-    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
-      <stop offset="0" stop-color="#0af" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#0af" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1000" height="280" fill="url(#bg)"/>
-  <rect width="1000" height="280" fill="url(#hex)"/>
-  <rect width="1000" height="280" fill="url(#glow)"/>
-  <!-- scanline texture -->
-  <g opacity="0.05" stroke="#0af">
-    <line x1="0" y1="20" x2="1000" y2="20"/><line x1="0" y1="60" x2="1000" y2="60"/>
-    <line x1="0" y1="100" x2="1000" y2="100"/><line x1="0" y1="140" x2="1000" y2="140"/>
-    <line x1="0" y1="180" x2="1000" y2="180"/><line x1="0" y1="220" x2="1000" y2="220"/>
-    <line x1="0" y1="260" x2="1000" y2="260"/>
-  </g>
-  <!-- corner ticks -->
-  <g stroke="#0af" stroke-width="2" opacity="0.5">
-    <path d="M16 40 L16 16 L40 16" fill="none"/>
-    <path d="M984 40 L984 16 L960 16" fill="none"/>
-    <path d="M16 240 L16 264 L40 264" fill="none"/>
-    <path d="M984 240 L984 264 L960 264" fill="none"/>
-  </g>
-  <!-- terminal card -->
-  <g>
-    <rect x="300" y="70" width="400" height="140" rx="10" fill="#0a0e1a" stroke="#1f6feb" stroke-width="1.5" opacity="0.95"/>
-    <circle cx="324" cy="92" r="5" fill="#ff5f56"/>
-    <circle cx="342" cy="92" r="5" fill="#ffbd2e"/>
-    <circle cx="360" cy="92" r="5" fill="#27c93f"/>
-    <line x1="300" y1="104" x2="700" y2="104" stroke="#1f6feb" stroke-width="1" opacity="0.5"/>
-    <text x="324" y="132" font-family="Consolas, monospace" font-size="17" fill="#0af">&gt; whoami</text>
-    <text x="432" y="132" font-family="Consolas, monospace" font-size="17" fill="#e6edf3">Harshil Bhuva</text>
-    <text x="324" y="160" font-family="Consolas, monospace" font-size="17" fill="#0af">&gt; mission</text>
-    <text x="452" y="160" font-family="Consolas, monospace" font-size="17" fill="#e6edf3">break &amp; defend</text>
-    <text x="324" y="188" font-family="Consolas, monospace" font-size="17" fill="#0af">&gt; </text>
-    <rect x="352" y="178" width="10" height="14" fill="#2ea8e8"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Harshil Bhuva — Security Engineering</title>
+<desc id="desc">A deep-space banner with a glowing cyan orbital arc and a central star.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06121b"/><stop offset=".55" stop-color="#0a2029"/><stop offset="1" stop-color="#07131a"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#14b8a6" stop-opacity="0"/><stop offset=".5" stop-color="#5eead4"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></linearGradient>
+  <radialGradient id="sun"><stop stop-color="#f0fdfa"/><stop offset=".22" stop-color="#5eead4"/><stop offset="1" stop-color="#0d9488" stop-opacity="0"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="338" rx="23" fill="none" stroke="#1d5b60"/>
+<g fill="#b8fff5" opacity=".55"><circle cx="94" cy="74" r="1.4"/><circle cx="210" cy="248" r="1"/><circle cx="366" cy="53" r="1.2"/><circle cx="518" cy="286" r="1"/><circle cx="1004" cy="67" r="1.2"/><circle cx="1090" cy="242" r="1.5"/><circle cx="880" cy="292" r="1"/></g>
+<ellipse cx="945" cy="170" rx="220" ry="88" fill="none" stroke="#0f766e" stroke-width="1.2" opacity=".5" transform="rotate(-18 945 170)"/>
+<ellipse cx="945" cy="170" rx="160" ry="60" fill="none" stroke="#2dd4bf" stroke-width="1" opacity=".5" transform="rotate(-18 945 170)"/>
+<circle cx="945" cy="170" r="68" fill="url(#sun)" opacity=".8" filter="url(#glow)"/>
+<circle cx="945" cy="170" r="20" fill="#99f6e4"/>
+<circle cx="945" cy="170" r="8" fill="#ecfeff"/>
+<circle cx="1082" cy="128" r="7" fill="#2dd4bf"/><circle cx="810" cy="213" r="4" fill="#67e8f9"/>
+<path d="M56 276H1144" stroke="url(#edge)" stroke-width="1"/>
+<text x="64" y="91" fill="#5eead4" font-family="monospace" font-size="15" letter-spacing="5">INDEPENDENT SECURITY ENGINEERING</text>
+<text x="60" y="166" fill="#ecfeff" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">HARSHIL BHUVA</text>
+<text x="64" y="207" fill="#a5f3e8" font-family="Arial,Helvetica,sans-serif" font-size="22">Network Systems  /  Threat Detection  /  Rust</text>
+<text x="64" y="247" fill="#7c9ba3" font-family="monospace" font-size="13" letter-spacing="2">OBSERVE  ·  ANALYZE  ·  ENGINEER</text>
+<text x="1138" y="310" text-anchor="end" fill="#3b7777" font-family="monospace" font-size="11">GITHUB / COMMANDER</text>
 </svg>
